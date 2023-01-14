@@ -1,5 +1,6 @@
 # ArpScanner-Basic
-Basic Arp Scannert
+Basic Arp Scanner
+
 # Usage
 You need to go program file (cd ArpScan) and write python3 main.py -i 10.0.2.0/24 you need to write your subnet mask.
 
